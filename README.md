@@ -1,6 +1,6 @@
 **Getting and Cleaning Data - Course Project**
-==================================================== 
----
+==============================================
+
 Introduction
 ----------------
 This project is part of the Coursera's "Getting and cleaning data" course project. The project is to create a tidy dataset using a raw data consisting of human activity levels recorded using a smartphone. The raw data was provided in separate text files from which a single dataset with specific requirements was to be created. The goal in preparing the tidy dataset is to get only the mean and standard deviation measurements and to show their average values for each activity that was performed and for each subject. 
